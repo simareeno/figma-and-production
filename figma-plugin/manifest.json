@@ -1,0 +1,5 @@
+{
+    "name": "Sync tokens",
+    "api": "1.0.0",
+    "main": "dist/code.js"
+}

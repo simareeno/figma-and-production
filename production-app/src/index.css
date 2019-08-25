@@ -1,0 +1,12 @@
+body {
+  font-family: sans-serif;
+  margin: 20px 40px;
+}
+
+section {
+  margin: 50px 0;
+}
+
+a {
+  color: var(--color-link);
+}

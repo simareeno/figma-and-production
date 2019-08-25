@@ -1,0 +1,31 @@
+.icon {
+  display: inline-block;
+  margin: 12px;
+  width: 48px;
+}
+
+.color {
+  display: inline-block;
+  padding: 10px 16px;
+}
+
+.brand-color {
+  background: var(--color-brand);
+}
+
+.link-color {
+  background: var(--color-link);
+  color: white;
+}
+
+.border-color {
+  background: var(--color-border);
+}
+
+.background-color {
+  background: var(--color-background);
+}
+
+.github-link {
+  margin-top: 40px;
+}

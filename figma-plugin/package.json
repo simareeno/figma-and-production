@@ -1,0 +1,22 @@
+{
+    "name": "@example/figma-plugin",
+    "version": "1.0.0",
+    "author": "Simon Chetverukhin <sima@chetverukhin.ru>",
+    "license": "MIT",
+    "scripts": {
+        "build": "webpack",
+        "start": "webpack --watch"
+    },
+    "dependencies": {
+        "@example/tokens": "1.0.0",
+        "ts-loader": "6.0.4",
+        "typescript": "3.5.3",
+        "url-loader": "2.1.0",
+        "webpack": "4.38.0",
+        "webpack-cli": "3.3.6"
+    },
+    "devDependencies": {
+        "file-loader": "4.1.0",
+        "hex-rgb": "4.1.0"
+    }
+}

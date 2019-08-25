@@ -1,0 +1,16 @@
+{
+    "name": "@example/tokens",
+    "version": "1.0.0",
+    "author": "Simon Chetverukhin <sima@chetverukhin.ru>",
+    "license": "MIT",
+    "scripts": {
+        "prepare": "npm run build",
+        "build": "node tools/build.js",
+        "start": "node tools/build.js"
+    },
+    "devDependencies": {
+        "del": "5.1.0",
+        "fs-extra": "8.1.0",
+        "glob": "7.1.4"
+    }
+}

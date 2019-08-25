@@ -1,0 +1,13 @@
+{
+    "name": "root",
+    "private": true,
+    "devDependencies": {
+        "lerna": "3.13.4"
+    },
+    "prettier": {
+        "trailingComma": "es5",
+        "tabWidth": 4,
+        "semi": false,
+        "singleQuote": true
+    }
+}
